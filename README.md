@@ -1,3 +1,3 @@
 # simpleUI
-![sample](https://raw.githubusercontent.com/Heinirich/simpleUI/main/1.jpg)
+![sample](https://github.com/Heinirich/simpleUI/blob/main/screenshot/Capture1.PNG)
 Kindly Make it responsive and send your request. Thank you.
